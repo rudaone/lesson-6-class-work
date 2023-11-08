@@ -1,0 +1,7 @@
+ul :first-child{
+    color:red;
+}
+
+ul :last-child{
+color: green;
+}
