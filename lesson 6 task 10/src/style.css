@@ -1,0 +1,27 @@
+.big-cube{
+    width: 900px;
+    height: 700px;
+    background-color: lightgreen;
+}
+
+.big-cube :first-child{
+    width: 100px;
+    height: 100px;
+    background-color: #fff;
+    position: absolute;
+    left: 50px;
+    top:50px;
+}
+
+.big-cube :last-child{
+    width: 100px;
+    height: 100px;
+    background-color: #fff;
+    position: absolute;
+    left:750px;
+    bottom: 50px;
+}
+
+section{
+    position: relative;
+}
