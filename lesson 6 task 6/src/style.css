@@ -1,0 +1,26 @@
+.cube{
+    width: 100px;
+    height: 100px;
+   
+}
+.cube_red{
+    border: 3px solid red;
+    position: absolute;
+}
+
+.cube_blue{
+    border: 3px solid blue;
+    position: absolute;
+    left: 120px;
+    top: 120px;
+}
+.cube_green{
+    border: 3px solid green;
+    position: absolute;
+    left:240px;
+    top:240px;
+
+}
+section{
+    position: relative;
+}
